@@ -5,3 +5,4 @@ Git tracks changes of files.
 My stupid boss still prefers SVN.
 Creating a new branch is quick.
 分支修改非快进模式
+bug分支
